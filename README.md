@@ -1,3 +1,4 @@
+# OBSOLETE WITH V2. Please see https://lualink.github.io/docs/dependencies/ for using external plugins.
 # Bungee Addon for LuaLink
 
 The Bungee addon provides functionality to send players from one server to another using LuaLink. This functionality is particularly useful for networked Minecraft servers running on platforms like Bungeecord, Waterfall, or Velocity.
